@@ -1,0 +1,15 @@
+#container {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 62, 62);
+    position: absolute;
+  }
+  
+  .left {
+    top: 0px;
+    left: 0px;
+  }
+  button {
+    position: relative;
+    left: 9%;
+  }
